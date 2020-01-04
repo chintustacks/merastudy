@@ -1,0 +1,2 @@
+# parindey
+@copyright
