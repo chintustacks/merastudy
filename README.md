@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Welcome to merastudy Pages
 
-You can use the [editor on GitHub](https://github.com/chintu-stacks/parindey/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can use this templates as a referance in your projects 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Open to contribution and Issue highliting
 
-```markdown
-Syntax highlighted code block
+Requesting new features and fixing bugs are welcome .
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+Guideline to contribute
+#Clone the repo 
+## Checkout developer branch 
+### Always update developer branch (Upstream)
 
-**Bold** and _Italic_ and `Code` text
+-Only learning purpose repo
+-Fixing bug will give you return the project flow of a standard working  model 
 
-[Link](url) and ![Image](src)
-```
+1. Open to PRs
+2. Open to Issue opening 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chintu-stacks/parindey/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
