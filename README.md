@@ -1,7 +1,7 @@
 ## Welcome to merastudy Pages
 
 You can use this templates as a referance in your projects 
-https://chintu-stacks.github.io/merastudy/
+https://chintustacks.github.io/merastudy/
 
 
 ### Open to contribution and Issue highliting
